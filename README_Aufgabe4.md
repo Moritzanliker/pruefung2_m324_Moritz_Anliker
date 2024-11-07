@@ -1,0 +1,1 @@
+Die Caching GitHub Action speichert Node.js-Abhängigkeiten zwischen den Builds, um Zeit zu sparen und den Build-Prozess zu beschleunigen. Dies führt zu kürzeren Ausführungszeiten, insbesondere bei großen Projekten mit vielen Abhängigkeiten.
